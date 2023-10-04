@@ -2,10 +2,9 @@
 <h3 align="center">Passionate & Proficient | Pre-Year College Student | Enthusiastic About Machine Learning | Diligent & Motivated</h3>
 
 <br/>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://tecxar.io/blog/software-development-services-and-how-to-choose-the-right-one-a-blog-about-software-development-and-how-to-choose-the-right-company/">
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=grudgeguy&label=Profile%20views&color=0e75b6&style=flat" alt="grudgeguy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grudgeguy" alt="grudgeguy" /></a> </p>
 

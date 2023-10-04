@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dhruv Srivastava</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Passionate & Proficient | Pre-Year College Student | Enthusiastic About Machine Learning | Diligent & Motivated</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grudgeguy&label=Profile%20views&color=0e75b6&style=flat" alt="grudgeguy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grudgeguy" alt="grudgeguy" /></a> </p>
+
+- 🔭 I’m a zealous learner **🌈 - ever ready to seize the opportunity on my way💯 and having deepest cravings to explore new horizons of these beautiful technologies out there😎**
+
+- 🌱 I’m currently learning **Deep learning.**
+
+- 👯 I’m looking to collaborate on **various project.**
+
+- 📫 How to reach me **Srivastava.dhruv78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

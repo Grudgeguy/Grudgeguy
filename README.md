@@ -2,7 +2,7 @@
 <h3 align="center">Passionate & Proficient | Pre-Year College Student | Enthusiastic About Machine Learning | Diligent & Motivated</h3>
 
 <br/>
-<img align="right" alt="coding" width="400" src="https://tecxar.io/blog/software-development-services-and-how-to-choose-the-right-one-a-blog-about-software-development-and-how-to-choose-the-right-company/">
+<img align="right" alt="coding" width="400" src="https://tenor.com/en-IN/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
 
 <br/>
 

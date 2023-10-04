@@ -3,7 +3,7 @@
 
 
 
-  <img style="margin:25px 25px 25px 25px; display:flex;justify-content:center" align="center" alt="coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+  <img style="margin:10px 20px 10px 50px; display:flex;justify-content:center" align="center" alt="coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grudgeguy" alt="grudgeguy" /></a> </p>
 
 

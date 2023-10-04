@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dhruv Srivastava</h1>
 <h3 align="center">Passionate & Proficient | Pre-Year College Student | Enthusiastic About Machine Learning | Diligent & Motivated</h3>
-<img align="center" alt="coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
-<br/>
-<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grudgeguy" alt="grudgeguy" /></a> </p>
 
+<div>
+  <img align="center" alt="coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grudgeguy" alt="grudgeguy" /></a> </p>
+
+</div>
 - 🔭 I’m a zealous learner **🌈 - ever ready to seize the opportunity on my way💯 and having deepest cravings to explore new horizons of these beautiful technologies out there😎**
 
 - 🌱 I’m currently learning **Deep learning.**

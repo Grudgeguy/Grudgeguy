@@ -2,7 +2,7 @@
 <h3 align="center">Passionate & Proficient | Pre-Year College Student | Enthusiastic About Machine Learning | Diligent & Motivated</h3>
 
 <br/>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif%3Flocale%3Des_ES&psig=AOvVaw08H9wBcnkihozC8N3oPX0K&ust=1696503886812000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi84faf3IEDFQAAAAAdAAAAABAI">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grudgeguy&label=Profile%20views&color=0e75b6&style=flat" alt="grudgeguy" /> </p>

@@ -2,7 +2,7 @@
 <h3 align="center">Passionate & Proficient | Pre-Year College Student | Enthusiastic About Machine Learning | Diligent & Motivated</h3>
 
 
-<div>
+<div style="display:flex">
   <img align="center" alt="coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grudgeguy" alt="grudgeguy" /></a> </p>
 

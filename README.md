@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Srivastava</h1>
-<h3 align="center">Passionate & Proficient | Pre-Year College Student | Enthusiastic About Machine Learning | Diligent & Motivated</h3>
+<h3 align="center">Passionate & Proficient | Final Year College Student | Enthusiastic About Machine Learning | Diligent & Motivated</h3>
 
 
 
